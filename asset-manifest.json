@@ -1,0 +1,14 @@
+{
+  "main.css": "/allocine/static/css/main.c7abde1a.chunk.css",
+  "main.js": "/allocine/static/js/main.65fc9245.chunk.js",
+  "main.js.map": "/allocine/static/js/main.65fc9245.chunk.js.map",
+  "static/js/1.f03e8ae8.chunk.js": "/allocine/static/js/1.f03e8ae8.chunk.js",
+  "static/js/1.f03e8ae8.chunk.js.map": "/allocine/static/js/1.f03e8ae8.chunk.js.map",
+  "runtime~main.js": "/allocine/static/js/runtime~main.8fbe0139.js",
+  "runtime~main.js.map": "/allocine/static/js/runtime~main.8fbe0139.js.map",
+  "static/media/allocine_logo.svg": "/allocine/static/media/allocine_logo.fda731dd.svg",
+  "static/css/main.c7abde1a.chunk.css.map": "/allocine/static/css/main.c7abde1a.chunk.css.map",
+  "index.html": "/allocine/index.html",
+  "precache-manifest.9a506e39e9aaa578bb759a212169750b.js": "/allocine/precache-manifest.9a506e39e9aaa578bb759a212169750b.js",
+  "service-worker.js": "/allocine/service-worker.js"
+}
