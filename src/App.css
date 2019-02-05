@@ -1,0 +1,84 @@
+@import "./assets/css/reset.css";
+
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,600");
+
+.container {
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  max-width: 1024px;
+}
+section {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 30px;
+}
+header {
+  background-color: #fecc00;
+  height: 96px;
+}
+h2 {
+  font-family: "Montserrat";
+  font-weight: 600;
+  font-size: 40px;
+  text-align: center;
+  margin-top: 30px;
+}
+h3 {
+  font-family: "Montserrat";
+  font-size: 24px;
+  font-weight: 600;
+  margin-top: 20px;
+}
+p {
+  font-family: "Arial";
+  font-size: 16px;
+  line-height: 22px;
+  margin-top: 20px;
+}
+.logo {
+  margin-top: 10px;
+  width: 165px;
+}
+.cover {
+  height: 600px;
+  width: 300px;
+  object-fit: cover;
+}
+.info {
+  margin-top: 5px;
+  font-family: Arial;
+  font-size: 13px;
+  line-height: 19px;
+}
+.itemLabel {
+  color: #b3b3b3;
+}
+
+.itemText {
+  color: #3889cb;
+}
+.bold {
+  font-weight: bold;
+}
+button {
+  margin-top: 20px;
+  height: 34px;
+  font-size: Montserrat;
+  font-weight: 600;
+  font-size: 11px;
+  text-transform: uppercase;
+  border: none;
+  margin-right: 11px;
+}
+
+.black {
+  color: white;
+  background-color: black;
+}
+.grey {
+  background-color: #ebeff0;
+}
+.yellow {
+  background-color: #fecc00;
+}
