@@ -23,6 +23,7 @@ h2 {
   font-size: 40px;
   text-align: center;
   margin-top: 30px;
+  text-transform: uppercase;
 }
 h3 {
   font-family: "Montserrat";
@@ -35,6 +36,8 @@ p {
   font-size: 16px;
   line-height: 22px;
   margin-top: 20px;
+  /* Conserver les retours à la ligne : */
+  white-space: pre-line;
 }
 .logo {
   margin-top: 10px;
